@@ -1,9 +1,14 @@
 # react-typescript-example
-**React TypeScript Example**. ReactJS Example App using TypeScript, for React Routing, React Ajax, React Nested API Calls, React SCSS, React CSS Modules.
+**React TypeScript Example**. ReactJS Example App using TypeScript.
+React Router TypeScript, React Fetch TypeScript, React Nested API Calls, React SCSS, React CSS Modules.
+
+**How to Convert React to TypeScript**. Convert JSX to TSX.
+
+Compare **react-example-app** to **react-typescript-example** in this Github.
 
 Uses the Stack Exchange API to search for questions and answers on **Stack Overflow**.
 
-React Best Practices. React Architecture for large scale applications.
+React TypeScript Best Practices. React TypeScript Architecture for large scale applications.
  
 Created by **ReactJSExample** [https://github.com/reactjsexample](https://github.com/reactjsexample)
 
