@@ -1,26 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import * as React from "react";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
-const App: React.FC = () => {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import styles from "./App.module.scss";
+import XxxAnswersPage from "./pages/XxxAnswersPage/XxxAnswersPage";
+import XxxHeader from "./components/XxxHeader/XxxHeader";
+import XxxHomePage from "./pages/XxxHomePage/XxxHomePage";
+import XxxPageNotFoundPage from "./pages/XxxPageNotFoundPage/XxxPageNotFoundPage";
+import XxxQuestionsPage from "./pages/XxxQuestionsPage/XxxQuestionsPage";
+
+class App extends React.Component {
+  render() {
+    return (
+      <div className={styles.App}>
+        <Router>
+          <XxxHeader />
+          <div>
+            <Switch>
+              <Route exact path="/" component={XxxHomePage} />
+              <Route path="/answers/:id" component={XxxAnswersPage} />
+              <Route path="/questions" component={XxxQuestionsPage} />
+              <Route component={XxxPageNotFoundPage} />
+            </Switch>
+          </div>
+        </Router>
+      </div>
+    );
+  }
 }
 
 export default App;

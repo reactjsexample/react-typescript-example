@@ -1,0 +1,61 @@
+@import "../../assets/styles/partials/colors";
+
+.answerAccepted {
+  background-color: $bg-color-accepted;
+  margin: 0.5rem;
+  overflow: scroll;
+  padding: 0.5rem;
+}
+
+.answerBody {
+}
+
+.answerCaption {
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
+.answerInfo {
+  font-size: 0.8rem;
+}
+
+.answerNotAccepted {
+  background-color: $bg-color-container;
+  margin: 0.5rem;
+  overflow: scroll;
+  padding: 0.5rem;
+}
+
+.answerQuestionContainer {
+  background-color: $bg-color-container;
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+.answersContainer {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.backToQuestions {
+  font-size: 0.8rem;
+  margin: 0.5rem;
+}
+
+.questionBody {
+}
+
+.questionCaption {
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
+.questionInfo {
+  font-size: 0.8rem;
+}
+
+.questionTitle {
+  font-size: 1.2rem;
+  font-weight: bold;
+}

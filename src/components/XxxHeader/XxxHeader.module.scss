@@ -1,0 +1,24 @@
+.header {
+  align-items: center;
+  background-color: dodgerblue;
+  display: flex;
+  flex-direction: row;
+  height: 4rem;
+}
+
+.headerTitle {
+  font-size: 1.2rem;
+  font-weight: bold;
+  width: 100%;
+}
+
+.logo {
+  height: 75%;
+}
+
+.searchBoxContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: 100%;
+}
