@@ -15,11 +15,11 @@ class XxxHomePage extends React.Component {
           <p>After that, you can click on a question to see the answers.</p>
           <p>
             Full source available at{" "}
-            <a href="https://github.com/reactjsexample/react-example-app">
+            <a href="https://github.com/reactjsexample/react-typescript-example">
               https://github.com/reactjsexample/react-example-app
             </a>
           </p>
-          <h3>Written in React 16.8</h3>
+          <h3>Written in React 16.8 with TypeScript</h3>
           <h4>By JC Lango</h4>
         </div>
       </div>
