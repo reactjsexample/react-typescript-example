@@ -9,7 +9,7 @@ class XxxHeader extends React.Component {
     return (
       <div className={styles.header}>
         <img src={logo} className={styles.logo} alt="logo" />
-        <div className={styles.headerTitle}>React Example App</div>
+        <div className={styles.headerTitle}>React TypeScript Example</div>
         <div className={styles.searchBoxContainer}>
           <XxxSearchBox />
         </div>
