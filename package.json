@@ -1,7 +1,8 @@
 {
   "name": "react-typescript-example",
   "version": "0.1.0",
-  "description": "Created by ReactJSExample at https://github.com/reactjsexample",
+  "description": "React TypeScript Example App by ReactJSExample https://github.com/reactjsexample ",
+  "homepage": "https://reactjsexample.github.io/react-ty[escript-example",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.3.1",
