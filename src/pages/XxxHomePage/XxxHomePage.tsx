@@ -16,7 +16,7 @@ class XxxHomePage extends React.Component {
           <p>
             Full source available at{" "}
             <a href="https://github.com/reactjsexample/react-typescript-example">
-              https://github.com/reactjsexample/react-example-app
+              https://github.com/reactjsexample/react-typescript-example
             </a>
           </p>
           <h3>Written in React 16.8 with TypeScript</h3>
