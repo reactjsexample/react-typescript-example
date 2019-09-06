@@ -1,4 +1,5 @@
 # react-typescript-example
+
 **React TypeScript Example**. ReactJS Example App using TypeScript.
 React Router TypeScript, React Fetch TypeScript, React Nested API Calls, React SCSS, React CSS Modules.
 
@@ -39,6 +40,7 @@ Click for running example: [react-typescript-example](https://reactjsexample.git
 - [Learn More About React](#learn-more-about-react)
 
 ## About The Author
+
 **JC Lango** is a UI Architect and UI Developer for large scale web applications at several Fortune 500 companies.
 
 He is an expert in **Angular**, **Polymer**, and **React** and maintains these sites at Github:
@@ -55,6 +57,7 @@ JC may be available to work remote, and can be contacted at these links:
 ## Compare Same App With Redux or JSX or Angular or Polymer
 
 ### Same App In React Redux
+
 You can compare this app to the same app with Redux.
 
 This is a good way to see how to convert an existing React app to React Redux.
@@ -62,6 +65,7 @@ This is a good way to see how to convert an existing React app to React Redux.
 - [react-redux-example](https://github.com/reactjsexample/react-redux-example)
 
 ### Same App In React JSX
+
 You can compare this app to the same app with React JSX.
 
 This is a good way to see how to convert an existing React app to React TypeScript.
@@ -76,12 +80,15 @@ Here is the same app written in Angular and Polymer:
 - [polymer-3-example-app](https://github.com/polymerexample/polymer-3-example-app)
 
 ## Project Setup
+
 ### Prerequisites
+
 You need to have Node and NPM installed on your PC.
 
 [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ### How To Install
+
 Download the source code using git or else download and unzip the zip file.
 
 Open a terminal window and go to the project root folder.
@@ -91,6 +98,7 @@ You need to have npm installed globally.
 Run `npm i` to install the required libraries.
 
 ### How To Run
+
 Open a terminal window and make sure you are in the project root folder.
 
 Run the following command for a dev server.
@@ -104,6 +112,7 @@ The browser will automatically reload if you change any of the source files.
 Open the browser's Developer Tools window to see any errors in the Console.
 
 ### How To Run Unit Tests
+
 To run the unit tests, you need to stop the server.
  
 If the server is running, stop the server from the terminal window by pressing *Control-C*.
@@ -116,6 +125,7 @@ Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### How To Build For Production
+
 Run the following command to do a production build.
 
 #### `npm run build`
@@ -139,6 +149,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Software Libraries Used
+
 * react 16.9.0
 * react-router-dom 5.0.1
 * typescript 3.6.2
@@ -148,6 +159,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 For more information see the [package.json](https://github.com/reactjsexample/react-typescript-example/blob/master/package.json) file.
 
 ## Learn More About React
+
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
