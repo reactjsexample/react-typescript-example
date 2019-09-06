@@ -14,10 +14,15 @@ Created by **ReactJSExample** [https://github.com/reactjsexample](https://github
 
 Full source code available at [https://github.com/reactjsexample/react-example-app](https://github.com/reactjsexample/react-example-app)
 
-![react-typescript-example-screen-shot](https://github.com/reactjsexample/react-typescript-example/blob/master/src/assets/images/react-typescript-example-screen-shot.png)
+![react-typescript-example-screen-shot](https://github.com/reactjsexample/react-typescript-example/blob/master/src/assets/images/react-typescript-example.png)
 
 ## Table of Contents
+
 - [About The Author](#about-the-author)
+- [Compare Same App With Redux or JSX or Angular or Polymer](#compare-same-app-with-redux-or-typescript)
+  - [Same App In React Redux](#same-app-in-react-redux)
+  - [Same App In React JSX](#same-app-in-react-jsx)
+  - [Same App In Angular or Polymer](#same-app-in-angular-or-polymer)
 - [Project Setup](#project-setup)
   * [Prerequisites](#prerequisites)
   * [How To Install](#how-to-install)
@@ -40,6 +45,29 @@ JC may be available to work remote, and can be contacted at these links:
  
 * LinkedIn: [https://www.linkedin.com/in/jclango](https://www.linkedin.com/in/jclango)
 * Email: [jobs@jclango.com](mailto:jobs@jclango.com)
+
+## Compare Same App With Redux or TypeScript or Angular or Polymer
+
+### Same App In React Redux
+You can compare this app to the same app with Redux.
+
+This is a good way to see how to convert an existing React app to React Redux.
+
+- [react-redux-example](https://github.com/reactjsexample/react-redux-example)
+
+### Same App In React JSX
+You can compare this app to the same app with React JSX.
+
+This is a good way to see how to convert an existing React app to React TypeScript.
+
+- [react-example-app](https://github.com/reactjsexample/react-example-app)
+
+### Same App In Angular Or Polymer
+
+Here is the same app written in Angular and Polymer:
+
+- [angular-9-example-app](https://github.com/angularexample/angular-9-example-app)
+- [polymer-3-example-app](https://github.com/polymerexample/polymer-3-example-app)
 
 ## Project Setup
 ### Prerequisites
@@ -105,15 +133,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Software Libraries Used
-* ReactJS
-* TypeScript
-* TSLint
-* Prettier
-* Node Sass
-* Material UI
-* React Router v4
+* react 16.9.0
+* react-router-dom 5.0.1
+* typescript 3.6.2
+* node-sass 4.12.0
+* @material-ui/core 4.4.0
 
-For more information see the package.json file.
+For more information see the [package.json](https://github.com/reactjsexample/react-typescript-example/blob/master/package.json) file.
 
 ## Learn More About React
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
