@@ -14,6 +14,12 @@ Created by **ReactJSExample** [https://github.com/reactjsexample](https://github
 
 Full source code available at [https://github.com/reactjsexample/react-example-app](https://github.com/reactjsexample/react-example-app)
 
+## Running Example
+
+Click for running example: [react-typescript-example](https://reactjsexample.github.io/react-typescript-example)
+
+### Screen Shot
+
 ![react-typescript-example-screen-shot](https://github.com/reactjsexample/react-typescript-example/blob/master/src/assets/images/react-typescript-example.png)
 
 ## Table of Contents

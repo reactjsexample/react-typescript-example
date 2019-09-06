@@ -1,5 +1,5 @@
 import * as React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 import styles from "./App.module.scss";
 import XxxAnswersPage from "./pages/XxxAnswersPage/XxxAnswersPage";
@@ -12,7 +12,7 @@ class App extends React.Component {
   render() {
     return (
       <div className={styles.App}>
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <XxxHeader />
           <div>
             <Switch>

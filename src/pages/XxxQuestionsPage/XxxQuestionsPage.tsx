@@ -210,7 +210,9 @@ class XxxQuestionsPage extends React.Component<
             {this.state.questions.map(item => (
               <li key={item.question_id}>
                 <a
-                  href={"/answers/" + item.question_id}
+                  href={
+                    process.env.PUBLIC_URL + "/#/answers/" + item.question_id
+                  }
                   className={styles.dummy}
                   key={item.question_id}
                 >
