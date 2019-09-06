@@ -19,7 +19,7 @@ class XxxHomePage extends React.Component {
               https://github.com/reactjsexample/react-typescript-example
             </a>
           </p>
-          <h3>Written in React 16.8 with TypeScript</h3>
+          <h3>Written in React 16.9.0 with TypeScript</h3>
           <h4>By JC Lango</h4>
         </div>
       </div>
