@@ -25,7 +25,7 @@ Click for running example: [react-typescript-example](https://reactjsexample.git
 ## Table of Contents
 
 - [About The Author](#about-the-author)
-- [Compare Same App With Redux or JSX or Angular or Polymer](#compare-same-app-with-redux-or-typescript)
+- [Compare Same App With Redux or JSX or Angular or Polymer](#compare-same-app-with-redux-or-jsx-or-angular-or-polymer)
   - [Same App In React Redux](#same-app-in-react-redux)
   - [Same App In React JSX](#same-app-in-react-jsx)
   - [Same App In Angular or Polymer](#same-app-in-angular-or-polymer)
@@ -52,7 +52,7 @@ JC may be available to work remote, and can be contacted at these links:
 * LinkedIn: [https://www.linkedin.com/in/jclango](https://www.linkedin.com/in/jclango)
 * Email: [jobs@jclango.com](mailto:jobs@jclango.com)
 
-## Compare Same App With Redux or TypeScript or Angular or Polymer
+## Compare Same App With Redux or JSX or Angular or Polymer
 
 ### Same App In React Redux
 You can compare this app to the same app with Redux.
