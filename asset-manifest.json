@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-typescript-example/static/css/main.1d29e299.chunk.css",
+    "main.js": "/react-typescript-example/static/js/main.37132406.chunk.js",
+    "main.js.map": "/react-typescript-example/static/js/main.37132406.chunk.js.map",
+    "runtime~main.js": "/react-typescript-example/static/js/runtime~main.411040bc.js",
+    "runtime~main.js.map": "/react-typescript-example/static/js/runtime~main.411040bc.js.map",
+    "static/js/2.8f057a94.chunk.js": "/react-typescript-example/static/js/2.8f057a94.chunk.js",
+    "static/js/2.8f057a94.chunk.js.map": "/react-typescript-example/static/js/2.8f057a94.chunk.js.map",
+    "index.html": "/react-typescript-example/index.html",
+    "precache-manifest.56b7496aabdbaa30755f2f61a133e28e.js": "/react-typescript-example/precache-manifest.56b7496aabdbaa30755f2f61a133e28e.js",
+    "service-worker.js": "/react-typescript-example/service-worker.js",
+    "static/css/main.1d29e299.chunk.css.map": "/react-typescript-example/static/css/main.1d29e299.chunk.css.map",
+    "static/media/logo.svg": "/react-typescript-example/static/media/logo.299e6db5.svg"
+  }
+}
