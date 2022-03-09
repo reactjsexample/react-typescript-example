@@ -2,7 +2,7 @@ import * as React from "react";
 import { IconButton } from "@material-ui/core";
 import { RouteComponentProps } from "react-router";
 import SearchIcon from "@material-ui/icons/Search";
-import { withRouter } from "react-router-dom";
+import { withRouter, Link } from "react-router-dom";
 
 import styles from "./XxxSearchBox.module.scss";
 
@@ -71,15 +71,7 @@ class XxxSearchBox extends React.Component<
             value={this.state.searchText}
             onChange={this.handleChange}
           />
-          <IconButton
-            aria-label="search"
-            color="primary"
-            disabled={this.state.isSearchButtonDisabled}
-            href="#"
-            onClick={this.handleSubmit}
-          >
-            <SearchIcon />
-          </IconButton>
+         <Link to={"#"}> <button disabled={this.state.isSearchButtonDisabled} onClick={this.handleSubmit}>Search</button></Link>
         </form>
       </div>
     );
