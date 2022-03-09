@@ -71,7 +71,7 @@ class XxxSearchBox extends React.Component<
             value={this.state.searchText}
             onChange={this.handleChange}
           />
-         <Link to={"#"}> <button disabled={this.state.isSearchButtonDisabled} onClick={this.handleSubmit}>Search</button></Link>
+          <button disabled={this.state.isSearchButtonDisabled} onClick={this.handleSubmit}>Search</button>
         </form>
       </div>
     );
